@@ -1,5 +1,11 @@
 # FUTURE_CS_01
 
+🌐 Live Report
+https://laisullah.github.io/FUTURE_CS_01/
+
+📂 GitHub Repository
+https://github.com/LAISULLAH/FUTURE_CS_01
+
 > **Future Interns – Cyber Security Internship**
 >
 > **Task 1:** Reconnaissance & Passive Security Assessment using **Nmap** and **OWASP ZAP**
