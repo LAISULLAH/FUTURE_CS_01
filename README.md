@@ -120,6 +120,6 @@ Cyber Security Enthusiast • Aspiring Red Teamer
 GitHub: https://github.com/LAISULLAH
 
 </div>
-*Cyber Security Enthusiast • Aspiring Red Teamer*
+
 
 </div>
